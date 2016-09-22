@@ -1,0 +1,1 @@
+# pidgin-plugin-autoanswer
